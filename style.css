@@ -1,0 +1,14 @@
+
+body{
+    font: oblique;
+    background: linear-gradient(to right, #0029f4, #ff0000 );
+text-align: center;
+text-transform: uppercase;
+color: #151515;
+}
+
+h4{
+font: caption;
+font-size: small;
+color: #16161a;
+}
